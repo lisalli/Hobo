@@ -1,0 +1,23 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+.yeay{
+    color:pink;
+    font-family: fantasy;
+    font-size: 12px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+}
+
+h{
+    color:aqua;
+    text-align: center;
+    background-color: cornsilk;
+    font-weight: 700;
+}
+
