@@ -14,10 +14,18 @@
     font-weight: 400;
 }
 
-h{
+.left{
+    background-color: cornflowerblue;
+}
+h1{
     color:aqua;
     text-align: center;
     background-color: cornsilk;
     font-weight: 700;
 }
 
+body{
+    padding: 10px 20px 15px 20px;
+    background-color: cornsilk;
+    margin-bottom: 20px;
+}
